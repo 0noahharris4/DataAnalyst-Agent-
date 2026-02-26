@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-matplotlib
-seaborn
-ydata-profiling
-openai
